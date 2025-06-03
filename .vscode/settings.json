@@ -1,0 +1,5 @@
+{
+    "typescript.preferGoToSourceDefinition": true,
+    "javascript.preferGoToSourceDefinition": true,
+    "editor.definitionLinkOpensInPeek": true
+}
